@@ -11,3 +11,5 @@
 
 - ⚡ Fun fact: I'm learning ICT, no job, no future, just silly me and voices in my head 2;^
 - ⚡ Can't wait to get replaced by AI in every possible job!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,unreal,arduino)](https://skillicons.dev)
