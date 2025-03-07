@@ -7,9 +7,11 @@
 * how to not make another spaghetti
 * and also losing will to live every day ;3
 
-
+# Current objetives:
+* learn c++ to pass semester
+* remake my old pong game for arduino
 
 - ⚡ Fun fact: I'm learning ICT, no job, no future, just silly me and voices in my head 2;^
 - ⚡ Can't wait to get replaced by AI in every possible job!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,unreal,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,unreal,arduino,cpp)](https://skillicons.dev)
