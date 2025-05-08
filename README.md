@@ -9,6 +9,7 @@
 
 # Current objetives:
 * learn c++ to pass semester
+* learn assembly to pass semester
 * remake my old pong game for arduino
 
 - ⚡ Fun fact: I'm learning ICT, no job, no future, just silly me and voices in my head 2;^
